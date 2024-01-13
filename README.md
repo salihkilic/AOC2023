@@ -5,26 +5,26 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 # 2023
 
 - Day 1
-  - _Trebuchet?_
+  - [_Trebuchet? (link to description)_](https://adventofcode.com/2023/day/1)
     - [x] [part1.py](2023/Day01/part_1.py)
     - [x] [part2.py](2023/Day01/part_2.py)
 
 - Day 2
-  - Cube Conundrum
+  - [_Cube Conundrum (link to description)_](https://adventofcode.com/2023/day/2)
     - [x] [part1.py](2023/Day02/part_1.py)
     - [x] [part2.py](2023/Day02/part_2.py)
 
 - Day 3
-  - Gear Ratios
+  - [_Gear Ratios (link to description)_](https://adventofcode.com/2023/day/3)
     - [x] [part1.py](2023/Day03/part_1.py)
     - [x] [part2.py](2023/Day03/part_2.py)
 
 - Day 4
-  - Scratchcards 
+  - [_Scratchcards (link to description)_](https://adventofcode.com/2023/day/4)
     - [x] [part1.py](2023/Day04/part_1.py) 
     - [x] [part2.py](2023/Day04/part_2.py)
 
 - Day 5
-  - Cube Conundrum
+  - [_If You Give A Seed A Fertilizer (link to description)_](https://adventofcode.com/2023/day/5)
     - [x] [part1.py](2023/Day05/part_1.py)
     - [ ] [part2.py](2023/Day05/part_2.py)
