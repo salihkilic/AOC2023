@@ -4,6 +4,6 @@ def main(lines):
     return lines
 
 if __name__ == '__main__':
-    lines = TxtInput('DayX/input.txt').lines
+    lines = TxtInput('input.txt').lines
 
     print(f"Solution: {main(lines)}")
