@@ -31,5 +31,10 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 
 - Day 6
   - [_Wait For It (link)_](https://adventofcode.com/2023/day/6)
-    - [ ] [part1.py](2023/Day06/part_1.py)
-    - [ ] [part2.py](2023/Day06/part_2.py)
+    - [x] [part1.py](2023/Day06/part_1.py)
+    - [x] [part2.py](2023/Day06/part_2.py)
+
+- Day 7
+  - [_Camel Cards (link)_](https://adventofcode.com/2023/day/7)
+    - [ ] [part1.py](2023/Day07/part_1.py)
+    - [ ] [part2.py](2023/Day07/part_2.py)
