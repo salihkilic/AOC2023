@@ -41,8 +41,9 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 
 - Day 8
   - [_Haunted Wasteland (link)_](https://adventofcode.com/2023/day/8)
-    - [ ] [part1.py](2023/Day08/part_1.py)
-    - [ ] [part2.py](2023/Day08/part_2.py)
+    - [x] [part1.py](2023/Day08/part_1.py)
+    - [x] [part2.py](2023/Day08/part_2_bruteforce.py)
+    - [x] [part2_bruteforce.py](2023/Day08/part_2_bruteforce.py) (brute force solution, takes too long)
 
 - Day 9
   - [_Mirage Maintenance (link)_](https://adventofcode.com/2023/day/9)
